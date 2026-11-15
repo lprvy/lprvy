@@ -42,6 +42,7 @@ I translate popular open-source projects into Turkish so more people in Türkiye
 | [elephant-goldfish-model](https://github.com/google/elephant-goldfish-model) (Google) | [README.tr.md](https://github.com/lprvy/elephant-goldfish-model/blob/main/README.tr.md) |
 | [ZCode](https://github.com/zai-org/ZCode) (Z.ai coding agent) | [README.tr.md](https://github.com/lprvy/ZCode/blob/main/README.tr.md) |
 | [browser-harness](https://github.com/browser-use/browser-harness) (Browser Use) | [README.tr.md](https://github.com/lprvy/browser-harness/blob/main/README.tr.md) · PR [#1019](https://github.com/browser-use/browser-harness/pull/1019) |
+| [dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) (DeepSeek) | [README.tr.md](https://github.com/lprvy/dsh-superagent-prototype/blob/main/README.tr.md) |
 | [DeepInfer](https://github.com/deepseek-ai/DeepInfer) (DeepSeek) | [README.tr.md](https://github.com/lprvy/DeepInfer/blob/main/README.tr.md) · PR [#287](https://github.com/deepseek-ai/DeepInfer/pull/287) |
 
 ## 🐞 How I Work
