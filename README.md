@@ -17,6 +17,29 @@
 - **Testing & QA:** Playwright · Jest · Postman
 - **Tools:** Git / GitHub · Docker
 
+## 🚀 Projects
+
+| Project | What it is | Built with |
+|---------|------------|------------|
+| [**bugboard**](https://github.com/lprvy/bugboard) | Full-stack bug tracker with a tested REST API and CI | Next.js · Express · PostgreSQL · Jest · Docker |
+| [**qa-playground**](https://github.com/lprvy/qa-playground) | UI + API test automation with page objects, written bug reports and nightly CI | Playwright · TypeScript |
+| [**ai-bug-reporter**](https://github.com/lprvy/ai-bug-reporter) | Turns messy bug notes into structured, reproducible bug reports (offline rules or Claude) | Python · Pydantic |
+| [**logsleuth**](https://github.com/lprvy/logsleuth) | Fast CLI that groups, counts and ranks the problems in your log files | Rust |
+| [**expense-journal**](https://github.com/lprvy/expense-journal) | Notebook-style daily income & expense tracker (TR/EN) | React Native · Expo · TypeScript |
+| [**fitness-tracker**](https://github.com/lprvy/fitness-tracker) | 12-week training, nutrition macros, grocery budget & pantry tracker (TR/EN) | React Native · Expo · Zustand |
+| [**brotato-cheat-helper**](https://github.com/lprvy/brotato-cheat-helper) | Local Brotato mod with hotkeys and a one-click Windows installer | GDScript · Batch |
+
+## 🇹🇷 Turkish Translations
+
+I translate popular open-source projects into Turkish so more people in Türkiye can use them.
+
+| Project | Turkish README |
+|---------|----------------|
+| [craft-anything](https://github.com/storytold/craft-anything) | [README.tr.md](https://github.com/lprvy/craft-anything/blob/main/README.tr.md) |
+| [magpie](https://github.com/yetone/magpie) | [README.tr.md](https://github.com/lprvy/magpie/blob/main/README.tr.md) |
+| [openidea](https://github.com/l0ng-ai/openidea) | [README.tr.md](https://github.com/lprvy/openidea/blob/main/README.tr.md) |
+| [jev-ultrafast](https://github.com/browser-use/jev-ultrafast) | [README.tr.md](https://github.com/lprvy/jev-ultrafast/blob/main/README.tr.md) |
+
 ## 🐞 How I Work
 
 ```text
