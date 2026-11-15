@@ -40,6 +40,7 @@ I translate popular open-source projects into Turkish so more people in Türkiye
 | [openidea](https://github.com/l0ng-ai/openidea) ⭐ 9k | [README.tr.md](https://github.com/l0ng-ai/openidea/blob/main/README.tr.md) ✅ merged upstream ([#3519](https://github.com/l0ng-ai/openidea/pull/3519)) |
 | [jev-ultrafast](https://github.com/browser-use/jev-ultrafast) | [README.tr.md](https://github.com/lprvy/jev-ultrafast/blob/main/README.tr.md) |
 | [elephant-goldfish-model](https://github.com/google/elephant-goldfish-model) (Google) | [README.tr.md](https://github.com/lprvy/elephant-goldfish-model/blob/main/README.tr.md) |
+| [answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) (agent skill) | Turkish page & player UI · PR [#412](https://github.com/QingYunA/answer-me-with-html/pull/412) |
 | [openfilm](https://github.com/openfilm/openfilm) (AI video agent) | [README.tr.md](https://github.com/lprvy/openfilm/blob/main/README.tr.md) · PR [#475](https://github.com/openfilm/openfilm/pull/475) |
 | [ZCode](https://github.com/zai-org/ZCode) (Z.ai coding agent) | [README.tr.md](https://github.com/lprvy/ZCode/blob/main/README.tr.md) |
 | [browser-harness](https://github.com/browser-use/browser-harness) (Browser Use) | [README.tr.md](https://github.com/lprvy/browser-harness/blob/main/README.tr.md) · PR [#1019](https://github.com/browser-use/browser-harness/pull/1019) |
