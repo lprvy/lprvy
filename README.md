@@ -40,6 +40,7 @@ I translate popular open-source projects into Turkish so more people in Türkiye
 | [openidea](https://github.com/l0ng-ai/openidea) | [README.tr.md](https://github.com/lprvy/openidea/blob/main/README.tr.md) |
 | [jev-ultrafast](https://github.com/browser-use/jev-ultrafast) | [README.tr.md](https://github.com/lprvy/jev-ultrafast/blob/main/README.tr.md) |
 | [elephant-goldfish-model](https://github.com/google/elephant-goldfish-model) (Google) | [README.tr.md](https://github.com/lprvy/elephant-goldfish-model/blob/main/README.tr.md) |
+| [browser-harness](https://github.com/browser-use/browser-harness) (Browser Use) | [README.tr.md](https://github.com/lprvy/browser-harness/blob/main/README.tr.md) · PR [#1019](https://github.com/browser-use/browser-harness/pull/1019) |
 | [DeepInfer](https://github.com/deepseek-ai/DeepInfer) (DeepSeek) | [README.tr.md](https://github.com/lprvy/DeepInfer/blob/main/README.tr.md) · PR [#287](https://github.com/deepseek-ai/DeepInfer/pull/287) |
 
 ## 🐞 How I Work
