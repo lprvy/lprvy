@@ -49,6 +49,7 @@ I translate popular open-source projects into Turkish so more people in Türkiye
 | [browser-harness](https://github.com/browser-use/browser-harness) (Browser Use) | [README.tr.md](https://github.com/lprvy/browser-harness/blob/main/README.tr.md) · PR [#1019](https://github.com/browser-use/browser-harness/pull/1019) |
 | [dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) (DeepSeek) | [README.tr.md](https://github.com/lprvy/dsh-superagent-prototype/blob/main/README.tr.md) |
 | [DeepInfer](https://github.com/deepseek-ai/DeepInfer) (DeepSeek) | [README.tr.md](https://github.com/lprvy/DeepInfer/blob/main/README.tr.md) · PR [#287](https://github.com/deepseek-ai/DeepInfer/pull/287) |
+| [pinky](https://github.com/DIYgod/pinky) ⭐ 2k (AI phone agent, MCP) | [README.tr.md](https://github.com/lprvy/pinky/blob/turkish-readme/README.tr.md) · PR [#153](https://github.com/DIYgod/pinky/pull/153) |
 
 ## 🐞 How I Work
 
