@@ -41,9 +41,9 @@ I translate popular open-source projects into Turkish so more people in Türkiye
 | [jev-ultrafast](https://github.com/browser-use/jev-ultrafast) | [README.tr.md](https://github.com/lprvy/jev-ultrafast/blob/main/README.tr.md) |
 | [elephant-goldfish-model](https://github.com/google/elephant-goldfish-model) (Google) | [README.tr.md](https://github.com/lprvy/elephant-goldfish-model/blob/main/README.tr.md) |
 | [anatomy](https://github.com/wheresryan22/anatomy) ⭐ 27k (Claude skill) | [README.tr.md](https://github.com/lprvy/anatomy/blob/main/README.tr.md) · PR [#153](https://github.com/wheresryan22/anatomy/pull/153) |
-| [rea-video](https://github.com/JuneYaooo/rea-video) (video reverse-engineering agent) | [README_tr.md](https://github.com/lprvy/rea-video/blob/main/i18n/README_tr.md) · PR [#47](https://github.com/JuneYaooo/rea-video/pull/47) |
+| [rea-video](https://github.com/JuneYaooo/rea-video) ⭐ 9k | [README_tr.md](https://github.com/JuneYaooo/rea-video/blob/main/i18n/README_tr.md) ✅ merged upstream ([#47](https://github.com/JuneYaooo/rea-video/pull/47)) |
 | [Mika](https://github.com/wangzan101/Mika) (Android AI agent) | [README.tr.md](https://github.com/lprvy/Mika/blob/main/docs/readme/README.tr.md) · PR [#647](https://github.com/wangzan101/Mika/pull/647) |
-| [answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) (agent skill) | Turkish page & player UI · PR [#412](https://github.com/QingYunA/answer-me-with-html/pull/412) |
+| [answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) ⭐ 6k | Turkish page & player UI ✅ merged upstream ([#412](https://github.com/QingYunA/answer-me-with-html/pull/412)) |
 | [openfilm](https://github.com/openfilm/openfilm) (AI video agent) | [README.tr.md](https://github.com/lprvy/openfilm/blob/main/README.tr.md) · PR [#475](https://github.com/openfilm/openfilm/pull/475) |
 | [ZCode](https://github.com/zai-org/ZCode) (Z.ai coding agent) | [README.tr.md](https://github.com/lprvy/ZCode/blob/main/README.tr.md) |
 | [browser-harness](https://github.com/browser-use/browser-harness) (Browser Use) | [README.tr.md](https://github.com/lprvy/browser-harness/blob/main/README.tr.md) · PR [#1019](https://github.com/browser-use/browser-harness/pull/1019) |
