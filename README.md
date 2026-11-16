@@ -42,7 +42,7 @@ I translate popular open-source projects into Turkish so more people in Türkiye
 | [elephant-goldfish-model](https://github.com/google/elephant-goldfish-model) (Google) | [README.tr.md](https://github.com/lprvy/elephant-goldfish-model/blob/main/README.tr.md) |
 | [anatomy](https://github.com/wheresryan22/anatomy) ⭐ 27k (Claude skill) | [README.tr.md](https://github.com/lprvy/anatomy/blob/main/README.tr.md) · PR [#153](https://github.com/wheresryan22/anatomy/pull/153) |
 | [rea-video](https://github.com/JuneYaooo/rea-video) ⭐ 9k | [README_tr.md](https://github.com/JuneYaooo/rea-video/blob/main/i18n/README_tr.md) ✅ merged upstream ([#47](https://github.com/JuneYaooo/rea-video/pull/47)) |
-| [Mika](https://github.com/wangzan101/Mika) (Android AI agent) | [README.tr.md](https://github.com/lprvy/Mika/blob/main/docs/readme/README.tr.md) · PR [#647](https://github.com/wangzan101/Mika/pull/647) |
+| [Mika](https://github.com/wangzan101/Mika) ⭐ 9k (Android AI agent) | [README.tr.md](https://github.com/wangzan101/Mika/blob/main/docs/readme/README.tr.md) ✅ merged upstream ([#647](https://github.com/wangzan101/Mika/pull/647)) |
 | [answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) ⭐ 6k | Turkish page & player UI ✅ merged upstream ([#412](https://github.com/QingYunA/answer-me-with-html/pull/412)) |
 | [openfilm](https://github.com/openfilm/openfilm) (AI video agent) | [README.tr.md](https://github.com/lprvy/openfilm/blob/main/README.tr.md) · PR [#475](https://github.com/openfilm/openfilm/pull/475) |
 | [ZCode](https://github.com/zai-org/ZCode) (Z.ai coding agent) | [README.tr.md](https://github.com/lprvy/ZCode/blob/main/README.tr.md) |
