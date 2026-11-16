@@ -50,7 +50,7 @@ I translate popular open-source projects into Turkish so more people in Türkiye
 | [dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) (DeepSeek) | [README.tr.md](https://github.com/lprvy/dsh-superagent-prototype/blob/main/README.tr.md) |
 | [DeepInfer](https://github.com/deepseek-ai/DeepInfer) (DeepSeek) | [README.tr.md](https://github.com/lprvy/DeepInfer/blob/main/README.tr.md) · PR [#287](https://github.com/deepseek-ai/DeepInfer/pull/287) |
 | [pinky](https://github.com/DIYgod/pinky) ⭐ 2k (AI phone agent, MCP) | [README.tr.md](https://github.com/DIYgod/pinky/blob/main/README.tr.md) ✅ merged upstream ([#153](https://github.com/DIYgod/pinky/pull/153)) |
-| [AnyModelBot](https://github.com/modelflare-ai/AnyModelBot) ⭐ 4k (local AI bot team) | Turkish added by the maintainers on request ([#73](https://github.com/modelflare-ai/AnyModelBot/issues/73)) · proofreading PR [#74](https://github.com/modelflare-ai/AnyModelBot/pull/74) |
+| [AnyModelBot](https://github.com/modelflare-ai/AnyModelBot) ⭐ 4k (local AI bot team) | Turkish added by the maintainers on request ([#73](https://github.com/modelflare-ai/AnyModelBot/issues/73)) · proofreading ✅ merged ([#74](https://github.com/modelflare-ai/AnyModelBot/pull/74)) |
 
 ## 🐞 How I Work
 
