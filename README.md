@@ -29,30 +29,6 @@
 | [**fitness-tracker**](https://github.com/lprvy/fitness-tracker) | 12-week training, nutrition macros, grocery budget & pantry tracker (TR/EN) | React Native · Expo · Zustand |
 | [**brotato-cheat-helper**](https://github.com/lprvy/brotato-cheat-helper) | Local Brotato mod with hotkeys and a one-click Windows installer | GDScript · Batch |
 
-## 🇹🇷 Turkish Translations
-
-I translate popular open-source projects into Turkish so more people in Türkiye can use them.
-
-| Project | Turkish README |
-|---------|----------------|
-| [craft-anything](https://github.com/storytold/craft-anything) ⭐ 33k | [README.tr.md](https://github.com/storytold/craft-anything/blob/main/README.tr.md) ✅ merged upstream ([#1902](https://github.com/storytold/craft-anything/pull/1902)) |
-| [magpie](https://github.com/yetone/magpie) | [README.tr.md](https://github.com/lprvy/magpie/blob/main/README.tr.md) |
-| [openidea](https://github.com/l0ng-ai/openidea) ⭐ 9k | [README.tr.md](https://github.com/l0ng-ai/openidea/blob/main/README.tr.md) ✅ merged upstream ([#3519](https://github.com/l0ng-ai/openidea/pull/3519)) |
-| [jev-ultrafast](https://github.com/browser-use/jev-ultrafast) | [README.tr.md](https://github.com/lprvy/jev-ultrafast/blob/main/README.tr.md) |
-| [elephant-goldfish-model](https://github.com/google/elephant-goldfish-model) (Google) | [README.tr.md](https://github.com/lprvy/elephant-goldfish-model/blob/main/README.tr.md) |
-| [anatomy](https://github.com/wheresryan22/anatomy) ⭐ 27k (Claude skill) | [README.tr.md](https://github.com/lprvy/anatomy/blob/main/README.tr.md) · PR [#153](https://github.com/wheresryan22/anatomy/pull/153) |
-| [rea-video](https://github.com/JuneYaooo/rea-video) ⭐ 9k | [README_tr.md](https://github.com/JuneYaooo/rea-video/blob/main/i18n/README_tr.md) ✅ merged upstream ([#47](https://github.com/JuneYaooo/rea-video/pull/47)) |
-| [Mika](https://github.com/wangzan101/Mika) ⭐ 9k (Android AI agent) | [README.tr.md](https://github.com/wangzan101/Mika/blob/main/docs/readme/README.tr.md) ✅ merged upstream ([#647](https://github.com/wangzan101/Mika/pull/647)) |
-| [answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) ⭐ 6k | Turkish page & player UI ✅ merged upstream ([#412](https://github.com/QingYunA/answer-me-with-html/pull/412)) |
-| [openfilm](https://github.com/openfilm/openfilm) ⭐ 7k (AI video agent) | [README.tr.md](https://github.com/openfilm/openfilm/blob/main/README.tr.md) ✅ merged upstream ([#475](https://github.com/openfilm/openfilm/pull/475)) |
-| [ZCode](https://github.com/zai-org/ZCode) (Z.ai coding agent) | [README.tr.md](https://github.com/lprvy/ZCode/blob/main/README.tr.md) |
-| [browser-harness](https://github.com/browser-use/browser-harness) (Browser Use) | [README.tr.md](https://github.com/lprvy/browser-harness/blob/main/README.tr.md) · PR [#1019](https://github.com/browser-use/browser-harness/pull/1019) |
-| [dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) (DeepSeek) | [README.tr.md](https://github.com/lprvy/dsh-superagent-prototype/blob/main/README.tr.md) |
-| [DeepInfer](https://github.com/deepseek-ai/DeepInfer) (DeepSeek) | [README.tr.md](https://github.com/lprvy/DeepInfer/blob/main/README.tr.md) · PR [#287](https://github.com/deepseek-ai/DeepInfer/pull/287) |
-| [pinky](https://github.com/DIYgod/pinky) ⭐ 2k (AI phone agent, MCP) | [README.tr.md](https://github.com/DIYgod/pinky/blob/main/README.tr.md) ✅ merged upstream ([#153](https://github.com/DIYgod/pinky/pull/153)) |
-| [AnyModelBot](https://github.com/modelflare-ai/AnyModelBot) ⭐ 4k (local AI bot team) | Turkish added by the maintainers on request ([#73](https://github.com/modelflare-ai/AnyModelBot/issues/73)) · proofreading ✅ merged ([#74](https://github.com/modelflare-ai/AnyModelBot/pull/74)) |
-| [kanzo](https://github.com/emanuele-em/kanzo) (kanban + MCP for coding agents) | [README.tr.md](https://github.com/lprvy/kanzo/blob/turkish-readme/README.tr.md) · PR [#69](https://github.com/emanuele-em/kanzo/pull/69) |
-
 ## 🐞 How I Work
 
 ```text
